@@ -1,5 +1,7 @@
 # minecraft.com
-
+*minecraft*
+||*minecraft*
+||minecraft.com^
 0.0.0.0 minecraft.com
 0.0.0.0 cpcalendars.minecraft.com
 0.0.0.0 webmail.new.minecraft.com
