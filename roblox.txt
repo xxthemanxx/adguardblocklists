@@ -1,4 +1,4 @@
-# roblox.com
+*roblox*
 ||*roblox*
 ||roblox.com^
 0.0.0.0 roblox.com
