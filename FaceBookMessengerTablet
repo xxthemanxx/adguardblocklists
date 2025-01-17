@@ -1,3 +1,9 @@
 ||*facebook*$ctag=device_tablet
 ||*whatsapp*$ctag=device_tablet
 ||*messenger*$ctag=device_tablet
+||*msngr.com*$ctag=device_tablet
+||*m.me*$ctag=device_tablet
+||*fb.com*$ctag=device_tablet
+||*fbstatic-a.akamaihd.net*$ctag=device_tablet
+||*fbexternal-a.akamaihd.net*$ctag=device_tablet
+||*fbcdn-profile-a.akamaihd.net*$ctag=device_tablet
