@@ -1,1 +1,3 @@
-||*steam*
+||*steamserver*
+||*steampowered.com*
+||*steamcommunity*
