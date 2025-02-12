@@ -1,3 +1,4 @@
 ||*steamserver*
 ||*steampowered.com*
 ||*steamcommunity*
+||*steamstatic.com*
